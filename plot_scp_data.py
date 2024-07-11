@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import scipy.stats as st
 import os
-
+'''This note intakes SCP data in the form of a .txt and plots it in Python. Default overlays plots from two different .txt files.'''
 
 engine = 'python"   #prevents warning from throwing, no other effect
 
